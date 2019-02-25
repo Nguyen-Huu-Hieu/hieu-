@@ -1,0 +1,106 @@
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.csprojResolveAssemblyReference.cache
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.frmLogin.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmMain.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmNhanvien.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmPhong.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyDV.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyKhachHang.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmSuDungDV.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThanhToan.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThietBi.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\bin\Debug\QL_KS.exe
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+c:\users\adida\onedrive\tài liệu\visual studio 2015\Projects\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\bin\Debug\QL_KS.exe
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.csprojResolveAssemblyReference.cache
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.frmLogin.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmMain.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmNhanvien.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmPhong.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyDV.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyKhachHang.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmSuDungDV.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThanhToan.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThietBi.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
+C:\Users\ksdsk\Documents\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\bin\Debug\QL_KS.exe
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.csprojResolveAssemblyReference.cache
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.frmLogin.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmMain.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmNhanvien.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmPhong.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyDV.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyKhachHang.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmSuDungDV.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThanhToan.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThietBi.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
+C:\Users\adida\OneDrive\Tài liệu\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\QL_KS.exe
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\mscorlib.dll
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\System.Net.Http.dll
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\System.Net.Http.xml
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\normidna.nlp
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfc.nlp
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfd.nlp
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfkc.nlp
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfkd.nlp
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.frmLogin.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmMain.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmNhanvien.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmPhong.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyDV.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyKhachHang.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmSuDungDV.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThanhToan.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThietBi.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
+C:\Users\Huu-Hieu\Downloads\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.csprojResolveAssemblyReference.cache
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\QL_KS.exe
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\mscorlib.dll
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\System.Net.Http.dll
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\System.Net.Http.xml
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\normidna.nlp
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfc.nlp
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfd.nlp
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfkc.nlp
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\bin\Debug\normnfkd.nlp
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.csprojResolveAssemblyReference.cache
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.frmLogin.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmMain.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmNhanvien.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmPhong.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyDV.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyKhachHang.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmSuDungDV.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThanhToan.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThietBi.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
+C:\Users\Huu-Hieu\Documents\Visual Studio 2012\Projects\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
